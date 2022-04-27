@@ -6,3 +6,5 @@ Ben
 Omer
 Yael
 Nirit
+Sapir
+Shahar
