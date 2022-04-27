@@ -9,7 +9,7 @@ def read_participents(participents):
         exit(-1)
     else:
         names = f.read().strip()
-        # ממיר STR לליסט
+        # covert str to list
         names = list(names.split("\n"))
         return names
 
